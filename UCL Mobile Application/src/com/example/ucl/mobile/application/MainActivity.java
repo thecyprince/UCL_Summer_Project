@@ -36,6 +36,9 @@ public class MainActivity extends Activity{
 
         View.OnClickListener buttonHandler = new View.OnClickListener() {
         	
+        	/**
+        	 * switch statement to initialize correct activity depending on which button is selected
+        	 */
             @Override
         	public void onClick(View v) {
             	
