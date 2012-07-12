@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Medical physicists and bioengineers use physics and engineering to solve medical problems. In addition to medically qualified staff such as doctors and nurses, modern medicine relies increasingly heavily on specialists in other professions such as medical physicists and bioengineers. A large part of medical physics concerns the use of radiation to examine and treat the body, including x-ray imaging, computed tomography (CT), and radiotherapy. Other areas include medical ultrasound for diagnosis and therapy, endoscopy, and Magnetic Resonance Imaging (MRI). Bioengineering includes designing medical devices such as pacemakers and prosthetic devices. For example, in our department, bioengineers develop products which help to minimise the impact of incontinence, and use implanted devices to restore function to paralysed muscle. We often find, however, that in practise there is little difference between medical physicists and bioengineers, and their training and expertise often strongly overlap.
+
+In hospitals, medical physicists and bioengineers ensure that high-tech equipment is working effectively so patients can be diagnosed accurately and treated safely. This requires flexibility, the willingness to take responsibility, the ability to work in multidisciplinary teams, and excellent physics skills, both as an experimentalist and a theoretician.
+
+Many medical physicists and bioengineers also work in research, improving existing techniques and developing completely new ones. British medical physicists such as Sir Godfrey Hounsfield and Sir Peter Mansfield have won Nobel prizes for their work on CT and MRI, respectively.
+
+Roughly equal numbers of men and women work as medical physicists or bioengineers. If you are considering a career in medicine, physics or engineering, then our undergraduate and postgraduate degrees in medical physics and bioengineering are likely to appeal to you."
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+    </LinearLayout>
+
+</ScrollView>
